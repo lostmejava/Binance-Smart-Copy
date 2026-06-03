@@ -16,6 +16,10 @@
 
 ![Binance Smart Copy](images/banner.jpg)
 
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=lostmejava/Binance-Smart-Copy&type=Date" alt="Star History Chart" width="600" />
+</p>
+
 ---
 
 <a name="english"></a>
